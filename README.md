@@ -1,2 +1,2 @@
 # OOP_Example
-the subject field is "vegetables"
+The subject field is "vegetables".
